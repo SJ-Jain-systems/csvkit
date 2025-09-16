@@ -1,0 +1,235 @@
+./docs/scripts/csvlook.rst:59: numberal ==> numeral
+
+./docs/scripts/csvsql.rst:36: crate ==> create
+./docs/scripts/csvsql.rst:36: crate ==> create
+./docs/scripts/csvsql.rst:94: accomodate ==> accommodate
+./man/csvsql.1:65: crate ==> create
+./man/csvsql.1:65: crate ==> create
+./man/csvsql.1:123: accomodate ==> accommodate
+./man/csvlook.1:93: numberal ==> numeral
+./man/csvclean.1:38: bu ==> by
+./man/csvclean.1:40: bu ==> by
+./man/csvclean.1:52: bu ==> by
+./man/csvclean.1:98: bu ==> by
+./man/csvclean.1:161: bu ==> by
+./man/csvclean.1:163: bu ==> by
+./man/csvclean.1:165: bu ==> by
+./man/csvclean.1:167: bu ==> by
+./man/csvclean.1:169: bu ==> by
+./man/csvclean.1:178: bu ==> by
+./man/csvclean.1:180: bu ==> by
+./venv/lib/python3.6/site-packages/pip/index.py:1070: falsy ==> falsely, false
+./venv/lib/python3.6/site-packages/pip/utils/ui.py:151: neds ==> needs
+./venv/lib/python3.6/site-packages/pip/vcs/subversion.py:139: readd ==> re-add, read
+./venv/lib/python3.6/site-packages/pip/vcs/git.py:60: becasue ==> because
+./venv/lib/python3.6/site-packages/pip/vcs/__init__.py:124: informations ==> information
+./venv/lib/python3.6/site-packages/pip/vcs/bazaar.py:77: readd ==> re-add, read
+./venv/lib/python3.6/site-packages/pip/_vendor/appdirs.py:193: deafult ==> default
+./venv/lib/python3.6/site-packages/pip/_vendor/appdirs.py:503: kernal ==> kernel
+./venv/lib/python3.6/site-packages/pip/_vendor/ipaddress.py:39: endianess ==> endianness
+./venv/lib/python3.6/site-packages/pip/_vendor/ipaddress.py:40: endianess ==> endianness
+./venv/lib/python3.6/site-packages/pip/_vendor/ipaddress.py:48: endianess ==> endianness
+./venv/lib/python3.6/site-packages/pip/_vendor/ipaddress.py:50: endianess ==> endianness
+./venv/lib/python3.6/site-packages/pip/_vendor/pyparsing.py:1591: explictly ==> explicitly
+./venv/lib/python3.6/site-packages/pip/_vendor/pyparsing.py:2825: wont ==> won't
+./venv/lib/python3.6/site-packages/pip/_vendor/pyparsing.py:4349: OnlyOnce ==> only once
+./venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/controller.py:281: permanant ==> permanent
+./venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/filewrapper.py:22: vaguaries ==> vagaries
+./venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/filewrapper.py:25: thigns ==> things
+./venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py:7: compatability ==> compatibility
+./venv/lib/python3.6/site-packages/pip/_vendor/chardet/sbcharsetprober.py:117: threshhold ==> threshold
+./venv/lib/python3.6/site-packages/pip/_vendor/packaging/specifiers.py:195: incase ==> in case
+./venv/lib/python3.6/site-packages/pip/_vendor/packaging/specifiers.py:201: begining ==> beginning
+./venv/lib/python3.6/site-packages/pip/_vendor/packaging/specifiers.py:506: techincally ==> technically
+./venv/lib/python3.6/site-packages/pip/_vendor/urllib3/request.py:120: mimick ==> mimic
+./venv/lib/python3.6/site-packages/pip/_vendor/urllib3/poolmanager.py:370: contaning ==> containing
+./venv/lib/python3.6/site-packages/pip/_vendor/urllib3/fields.py:124: typles ==> tuples
+./venv/lib/python3.6/site-packages/pip/_vendor/urllib3/exceptions.py:157: perfoming ==> performing
+./venv/lib/python3.6/site-packages/pip/_vendor/urllib3/util/ssl_.py:186: abbrevation ==> abbreviation
+./venv/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/securetransport.py:91: becuase ==> because
+./venv/lib/python3.6/site-packages/pip/_vendor/html5lib/_inputstream.py:464: overriden ==> overridden
+./venv/lib/python3.6/site-packages/pip/_vendor/html5lib/_inputstream.py:464: overriden ==> overridden
+./venv/lib/python3.6/site-packages/pip/_vendor/html5lib/constants.py:1311: andd ==> and
+./venv/lib/python3.6/site-packages/pip/_vendor/html5lib/constants.py:1368: becaus ==> because
+./venv/lib/python3.6/site-packages/pip/_vendor/html5lib/constants.py:1560: curren ==> current
+./venv/lib/python3.6/site-packages/pip/_vendor/html5lib/constants.py:1561: curren ==> current
+./venv/lib/python3.6/site-packages/pip/_vendor/html5lib/constants.py:1756: ges ==> goes, guess
+./venv/lib/python3.6/site-packages/pip/_vendor/html5lib/constants.py:1932: lates ==> later, latest
+./venv/lib/python3.6/site-packages/pip/_vendor/html5lib/constants.py:2292: olt ==> old
+./venv/lib/python3.6/site-packages/pip/_vendor/html5lib/constants.py:2356: pluse ==> pulse
+./venv/lib/python3.6/site-packages/pip/_vendor/html5lib/constants.py:2559: simlE ==> simple, smile, simile
+./venv/lib/python3.6/site-packages/pip/_vendor/html5lib/serializer.py:221: identifer ==> identifier
+./venv/lib/python3.6/site-packages/pip/_vendor/requests/models.py:447: fo ==> of, for, to, do, go
+./venv/lib/python3.6/site-packages/pip/_vendor/requests/utils.py:143: useable ==> usable
+./venv/lib/python3.6/site-packages/pip/_vendor/webencodings/__init__.py:194: precense ==> presence
+./venv/lib/python3.6/site-packages/pip/_vendor/webencodings/__init__.py:221: chunck ==> chunk
+./venv/lib/python3.6/site-packages/pip/_vendor/webencodings/__init__.py:222: chunck ==> chunk
+./venv/lib/python3.6/site-packages/pip/_vendor/webencodings/__init__.py:237: chunck ==> chunk
+./venv/lib/python3.6/site-packages/pip/_vendor/webencodings/__init__.py:238: chunck ==> chunk
+./venv/lib/python3.6/site-packages/pip/_vendor/webencodings/__init__.py:263: chunck ==> chunk
+./venv/lib/python3.6/site-packages/pip/_vendor/webencodings/__init__.py:264: chunck ==> chunk
+./venv/lib/python3.6/site-packages/pip/commands/list.py:49: uptodate ==> up-to-date
+./venv/lib/python3.6/site-packages/pip/commands/list.py:146: uptodate ==> up-to-date
+./venv/lib/python3.6/site-packages/pip/commands/list.py:158: uptodate ==> up-to-date
+./venv/lib/python3.6/site-packages/pip/commands/show.py:122: informations ==> information
+./venv/lib/python3.6/site-packages/pip/compat/dictconfig.py:435: te ==> the, be, we, to
+./venv/lib/python3.6/site-packages/pip/compat/dictconfig.py:436: te ==> the, be, we, to
+./venv/lib/python3.6/site-packages/pip/compat/dictconfig.py:504: te ==> the, be, we, to
+./venv/lib/python3.6/site-packages/pip/compat/dictconfig.py:505: te ==> the, be, we, to
+./venv/lib/python3.6/site-packages/pip/req/req_set.py:227: environement ==> environment
+./venv/lib/python3.6/site-packages/codespell-2.2.1.dist-info/METADATA:37: adn ==> and
+./venv/lib/python3.6/site-packages/setuptools/msvc.py:134: environement ==> environment
+./venv/lib/python3.6/site-packages/setuptools/msvc.py:243: informations ==> information
+./venv/lib/python3.6/site-packages/setuptools/msvc.py:334: informations ==> information
+./venv/lib/python3.6/site-packages/setuptools/msvc.py:478: comparaison ==> comparison
+./venv/lib/python3.6/site-packages/setuptools/msvc.py:839: comparaison ==> comparison
+./venv/lib/python3.6/site-packages/setuptools/package_index.py:162: interepretation ==> interpretation
+./venv/lib/python3.6/site-packages/setuptools/site-patch.py:51: nd ==> and, 2nd
+./venv/lib/python3.6/site-packages/setuptools/site-patch.py:58: nd ==> and, 2nd
+./venv/lib/python3.6/site-packages/setuptools/_vendor/pyparsing.py:1591: explictly ==> explicitly
+./venv/lib/python3.6/site-packages/setuptools/_vendor/pyparsing.py:2825: wont ==> won't
+./venv/lib/python3.6/site-packages/setuptools/_vendor/pyparsing.py:4349: OnlyOnce ==> only once
+./venv/lib/python3.6/site-packages/setuptools/_vendor/packaging/specifiers.py:195: incase ==> in case
+./venv/lib/python3.6/site-packages/setuptools/_vendor/packaging/specifiers.py:201: begining ==> beginning
+./venv/lib/python3.6/site-packages/setuptools/_vendor/packaging/specifiers.py:506: techincally ==> technically
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:1: Dyas ==> Dryas
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:2: Dyas ==> Dryas
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:3: Dyas ==> Dryas
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:4: Dyas ==> Dryas
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:5: Dyas ==> Dryas
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:6: Dyas ==> Dryas
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:7: Dyas ==> Dryas
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:8: Dyas ==> Dryas
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:9: Dyas ==> Dryas
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:10: Dyas ==> Dryas
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:11: Dyas ==> Dryas
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:12: Dyas ==> Dryas
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:13: Dyas ==> Dryas
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:17: compatability ==> compatibility
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:18: compatability ==> compatibility
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:19: compatability ==> compatibility
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:20: compatability ==> compatibility
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:23: Teh ==> The
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:23: teh ==> the
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:24: teh ==> the
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:24: chello ==> cello
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:25: teh ==> the
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:28: Millenium ==> Millennium
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:29: Millenium ==> Millennium
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:31: Millenium ==> Millennium
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:32: Millenium ==> Millennium
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:33: Millenium ==> Millennium
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:34: Millenium ==> Millennium
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:35: Millenium ==> Millennium
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:36: millenium ==> millennium
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:37: millenium ==> millennium
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:38: Millenium ==> Millennium
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:39: millenium ==> millennium
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:41: Millenium ==> Millennium
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:42: Millenium ==> Millennium
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:43: Millenium ==> Millennium
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:44: Millenium ==> Millennium
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:47: Internation ==> International
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:48: Internation ==> International
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:50: ECT ==> ETC
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:51: ECT ==> ETC
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:52: ECT ==> ETC
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:54: ECT ==> ETC
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:55: ECT ==> ETC
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:56: ECT ==> ETC
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:57: ECT ==> ETC
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:58: ECT ==> ETC
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:59: ECT ==> ETC
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:60: ECT ==> ETC
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:61: ECT ==> ETC
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:62: ECT ==> ETC
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:63: ECT ==> ETC
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:68: whic ==> which
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:72: ect ==> etc
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:73: infinit ==> infinite
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:74: infinit ==> infinite
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:76: ISNT ==> ISN'T
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:77: Teh ==> The
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:78: Teh ==> The
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:79: Teh ==> The
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:80: Teh ==> The
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:81: pallete ==> palette
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:82: pallete ==> palette
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:83: pallete ==> palette
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:84: virtualY ==> virtually
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:85: archType ==> archetype
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:86: Satelite ==> Satellite
+./venv/lib/python3.6/site-packages/codespell_lib/data/linux-kernel.exclude:87: SMOE ==> SOME
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:2686: arent ==> aren't
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:5103: calculatable ==> calculable
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:5256: cant ==> can't
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:6016: circularly ==> circular
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:6658: commata ==> commas
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:6667: commend ==> comment, command
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:8769: couldnt ==> couldn't
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:8875: crate ==> create
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:8884: crate ==> create
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:8885: crated ==> created
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:10994: didnt ==> didn't
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:12028: doesnt ==> doesn't, does not
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:12105: dosen ==> dozen, dose, doesn
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:12109: dosent ==> doesn't
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:15424: florescent ==> fluorescent
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:15427: florescent ==> fluorescent
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:15515: followings ==> following
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:15532: followings ==> following
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:16951: heterogenous ==> heterogeneous
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:19525: isnt ==> isn't
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:20531: manger ==> manager
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:20669: mater ==> matter, master, mother
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:23023: ore ==> or
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:26811: readd ==> re-add, read
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:26811: readded ==> read
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:30241: shouldnt ==> shouldn't
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:31639: steams ==> streams
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:33224: thats ==> that's
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:36181: wasn ==> wasn't, was
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:36184: wasnt ==> wasn't
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:36193: whats ==> what's
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary.txt:36584: wouldnt ==> wouldn't
+./venv/lib/python3.6/site-packages/codespell_lib/data/dictionary_code.txt:14: crate ==> create
+./venv/lib/python3.6/site-packages/pkg_resources/_vendor/appdirs.py:193: deafult ==> default
+./venv/lib/python3.6/site-packages/pkg_resources/_vendor/appdirs.py:503: kernal ==> kernel
+./venv/lib/python3.6/site-packages/pkg_resources/_vendor/pyparsing.py:1591: explictly ==> explicitly
+./venv/lib/python3.6/site-packages/pkg_resources/_vendor/pyparsing.py:2825: wont ==> won't
+./venv/lib/python3.6/site-packages/pkg_resources/_vendor/pyparsing.py:4349: OnlyOnce ==> only once
+./venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/specifiers.py:195: incase ==> in case
+./venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/specifiers.py:201: begining ==> beginning
+./venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/specifiers.py:506: techincally ==> technically
+./csvkit/cli.py:126: overriden ==> overridden
+./csvkit/cli.py:155: overriden ==> overridden
+./csvkit/utilities/csvsql.py:98: accomodate ==> accommodate
+./examples/realdata/event-notification-rpt-lastmonth.txt:5: Busses ==> Buses
+./examples/realdata/event-notification-rpt-lastmonth.txt:5: Busses ==> Buses
+./examples/realdata/event-notification-rpt-lastmonth.txt:11: SPECIF ==> SPECIFY, SPECIFIC
+./examples/realdata/event-notification-rpt-lastmonth.txt:17: SPECIF ==> SPECIFY, SPECIFIC
+./examples/realdata/event-notification-rpt-lastmonth.txt:17: NOTIFICATON ==> NOTIFICATION
+./examples/realdata/event-notification-rpt-lastmonth.txt:22: SPECIF ==> SPECIFY, SPECIFIC
+./examples/realdata/event-notification-rpt-lastmonth.txt:22: INADVERTANT ==> INADVERTENT
+./examples/realdata/event-notification-rpt-lastmonth.txt:27: SPECIF ==> SPECIFY, SPECIFIC
+./examples/realdata/event-notification-rpt-lastmonth.txt:27: INADVERTANT ==> INADVERTENT
+./examples/realdata/event-notification-rpt-lastmonth.txt:32: ND ==> AND, 2ND
+./examples/realdata/event-notification-rpt-lastmonth.txt:45: SPECIF ==> SPECIFY, SPECIFIC
+./examples/realdata/event-notification-rpt-lastmonth.txt:50: dependant ==> dependent
+./examples/realdata/event-notification-rpt-lastmonth.txt:53: UE ==> USE, DUE
+./examples/realdata/event-notification-rpt-lastmonth.txt:55: VARIAN ==> VARIANT
+./examples/realdata/event-notification-rpt-lastmonth.txt:55: Varian ==> Variant
+./examples/realdata/event-notification-rpt-lastmonth.txt:61: SPECIF ==> SPECIFY, SPECIFIC
+./examples/realdata/event-notification-rpt-lastmonth.txt:66: SPECIF ==> SPECIFY, SPECIFIC
+./examples/realdata/event-notification-rpt-lastmonth.txt:72: UE ==> USE, DUE
+./examples/realdata/FY09_EDU_Recipients_by_State.csv:36: ND ==> AND, 2ND
+./examples/realdata/Datagov_FY10_EDU_recp_by_State.csv:2: Recieved ==> Received
+./examples/realdata/Datagov_FY10_EDU_recp_by_State.csv:38: ND ==> AND, 2ND
+./examples/realdata/census_2000/usgeo_excerpt.upl:400: ND ==> AND, 2ND
+./examples/realdata/census_2000/usgeo_excerpt.upl:401: ND ==> AND, 2ND
+./examples/realdata/census_2000/usgeo_excerpt.upl:566: Kake ==> Cake, take
+./examples/realdata/census_2000/usgeo_excerpt.upl:567: Kake ==> Cake, take
+./examples/realdata/census_2000/determination.csv:1010: ND ==> AND, 2ND
+./examples/realdata/census_2000/determination.csv:1011: ND ==> AND, 2ND
+./examples/realdata/census_2000/determination.csv:1012: ND ==> AND, 2ND
+./examples/realdata/census_2000/determination.csv:1013: ND ==> AND, 2ND
